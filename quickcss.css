@@ -1,0 +1,23 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+.orange {
+    color: orange;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+.px5 {
+    font-size: 5px;
+}
+
+.px10 {
+    font-size: 10px;
+}
