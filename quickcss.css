@@ -15,8 +15,16 @@
 }
 
 
-.p {
-    font-size: 200px; /* Set the font size */
+.sf {
+    font-size: 10px; /* ছোট ফন্ট সাইজ */
+}
+
+.mf {
+    font-size: 30px; /* মাঝারি ফন্ট সাইজ */
+}
+
+.lf {
+    font-size: 50px; /* বড় ফন্ট সাইজ */
 }
 
 
